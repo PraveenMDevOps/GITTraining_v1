@@ -5,3 +5,4 @@ A major power struggle occurs when the leader of a political party passes away. 
 testing the differences
 
 git stash change
+This is a test for git stash pop
